@@ -33,6 +33,10 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.com"
+  },
   "peerDependencies": {
     "webpack": "^4.0.0"
   },
