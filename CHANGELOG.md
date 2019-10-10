@@ -8,6 +8,8 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * removed unnecessary dependency ([#111](https://github.com/webpack-contrib/terser-webpack-plugin/issues/111)) ([bc19b72](https://github.com/webpack-contrib/terser-webpack-plugin/commit/bc19b72))
+* Fix `terser` dependency to 4.1.4.
+* Add scope `@rollup-umd`.
 
 ## [1.4.0](https://github.com/webpack-contrib/terser-webpack-plugin/compare/v1.3.0...v1.4.0) (2019-07-31)
 
