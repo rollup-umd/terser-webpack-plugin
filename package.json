@@ -42,7 +42,7 @@
     "jest-worker": "^24.9.0",
     "schema-utils": "^2.4.1",
     "serialize-javascript": "^2.1.0",
-    "source-map": "^0.6.1",
+    "source-map": "^0.7.3",
     "terser": "^4.3.8",
     "webpack-sources": "^1.4.3"
   },
